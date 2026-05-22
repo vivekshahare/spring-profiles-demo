@@ -1,6 +1,6 @@
 Spring Boot Profile
 
-#dev have most priority (prod has less priority). priority goes from left to right.
+#dev have most priority (prod has less priority). priority goes from left(minimum) to right(maximum).
 spring.profiles.active: prod, test, dev
 
 Run Application through Command Line
